@@ -1,0 +1,20 @@
+<!DOCTYPE
+
+h1 {
+  color:red;
+}
+p {
+  color:darkblue;
+}
+
+.article-body {
+  background-color: lightgray;
+}
+
+#footer-p {
+  color: indigo;
+}
+
+header p {
+  color: gray;
+}

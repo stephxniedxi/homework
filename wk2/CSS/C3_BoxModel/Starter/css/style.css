@@ -1,0 +1,14 @@
+.box-a {
+  background-color: #F3DBCF;
+}
+div{
+margin:5px 20px 30px 40px; /*上右下左*/
+margin:5px 50px; /*上下 10px 左右 20px*/
+margin:5px; /*上右下左都 10px*/
+margin:5px auto; /*上10px 左右置中*/
+}
+div{
+border: 5px solid #C9BBC8;
+ /*寬度,類型,顏⾊*/	 
+
+}
